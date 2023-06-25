@@ -28,7 +28,7 @@ def get_thresholds_beginner():
 
 
 
-# Get thresholds for beginner mode
+# Get thresholds for pro mode
 def get_thresholds_pro():
 
     _ANGLE_HIP_KNEE_VERT = {
